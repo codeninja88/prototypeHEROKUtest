@@ -12,4 +12,8 @@
   "devDependencies": {},
   "author": "Parminder Singh",
   "license": "ISC"
+  
+  "scripts" : {
+    "start": "node app.js"
+  }
 }
