@@ -1,0 +1,15 @@
+{
+  "name": "preetzdomain",
+  "version": "1.0.0",
+  "description": "login system",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "jade": "^1.11.0",
+    "express": "^4.13.3",
+    "sqlite3": "^3.x"
+  },
+  "devDependencies": {},
+  "author": "Parminder Singh",
+  "license": "ISC"
+}
