@@ -73,6 +73,6 @@ app.post('/login', function(req, res) {
   });
 });
 
-app.listen(3000, function(){
-  console.log("running at --> http://localhost:3000/")
+app.listen(process.env.PORT || 3000, function(){
+  //console.log("running at --> http://localhost:3000/")
 });
